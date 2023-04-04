@@ -1,0 +1,15 @@
+C:\Malty\Tugas\Pemrograman\02\taxi\obj\Debug\net6.0\taxi.csproj.AssemblyReference.cache
+C:\Malty\Tugas\Pemrograman\02\taxi\obj\Debug\net6.0\taxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Malty\Tugas\Pemrograman\02\taxi\obj\Debug\net6.0\taxi.AssemblyInfoInputs.cache
+C:\Malty\Tugas\Pemrograman\02\taxi\obj\Debug\net6.0\taxi.AssemblyInfo.cs
+C:\Malty\Tugas\Pemrograman\02\taxi\obj\Debug\net6.0\taxi.csproj.CoreCompileInputs.cache
+C:\Malty\Tugas\Pemrograman\02\taxi\bin\Debug\net6.0\taxi.exe
+C:\Malty\Tugas\Pemrograman\02\taxi\bin\Debug\net6.0\taxi.deps.json
+C:\Malty\Tugas\Pemrograman\02\taxi\bin\Debug\net6.0\taxi.runtimeconfig.json
+C:\Malty\Tugas\Pemrograman\02\taxi\bin\Debug\net6.0\taxi.dll
+C:\Malty\Tugas\Pemrograman\02\taxi\bin\Debug\net6.0\taxi.pdb
+C:\Malty\Tugas\Pemrograman\02\taxi\obj\Debug\net6.0\taxi.dll
+C:\Malty\Tugas\Pemrograman\02\taxi\obj\Debug\net6.0\refint\taxi.dll
+C:\Malty\Tugas\Pemrograman\02\taxi\obj\Debug\net6.0\taxi.pdb
+C:\Malty\Tugas\Pemrograman\02\taxi\obj\Debug\net6.0\taxi.genruntimeconfig.cache
+C:\Malty\Tugas\Pemrograman\02\taxi\obj\Debug\net6.0\ref\taxi.dll
